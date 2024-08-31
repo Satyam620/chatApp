@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029737942935",
+    "project_id": "chatapp-19006",
+    "storage_bucket": "chatapp-19006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029737942935:android:8d6a201c7832799b827ed2",
+        "android_client_info": {
+          "package_name": "com.venom.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ynekBWDVRTbyGEI9EYnptMscR6IJZcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
